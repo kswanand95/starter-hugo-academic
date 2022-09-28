@@ -25,8 +25,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: kswanand95@gmail.com
+  phone: (+1) 602 475 6262
   address:
     street: 450 Serra Mall
     city: Stanford
@@ -46,7 +46,7 @@ content:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
+      link: '[https://twitter.com/Twitter](https://twitter.com/kswanand95)'
     - icon: video
       icon_pack: fas
       name: Zoom Me
