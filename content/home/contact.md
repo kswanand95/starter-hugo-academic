@@ -46,7 +46,7 @@ content:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: '[https://twitter.com/Twitter](https://twitter.com/kswanand95)'
+      link: 'https://twitter.com/kswanand95'
     - icon: video
       icon_pack: fas
       name: Zoom Me
