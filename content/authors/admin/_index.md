@@ -5,9 +5,10 @@ avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Origin of life
+  - Assembly theory
+  - Complex systems
+  - Decentralized control
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,22 +29,26 @@ organizations:
   - name: Arizona State University
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Physics (ongoing)
+      institution: Arizona State University
+      year: ""
+    - course: Masters of Science (Thesis)
+      institution: Tata Institute of Fundamental Research (TIFR), Mumbai
+      year: 2018
+    - course: BS-MS
+      institution: "Indian Institute of Science Education and Research "
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
 ---
+This site is under construction! 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I﻿ am a PhD student broadly interested in the scientific philosophy and the inner workings of a process called 'life'. I'm working with [Professor Sara Walker](http://emergence.asu.edu/) at the [Beyond Center](http://beyond.asu.edu/) and the department of Physics at ASU.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Understanding how complex systems (as complex as life itself) emerge in a simple universe intrigues me. I am using Assembly Theory and the general theory of Genotype-phenotype (GP) maps to address this question. I believe this shall also broaden our understanding of the theory of Evolution, the pre, the post and the plus  to the Darwinian evolution. 
+
+
+<!--EndFragment-->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
