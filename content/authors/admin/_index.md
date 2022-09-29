@@ -1,7 +1,7 @@
 ---
 title: Swanand Khanapurkar
 role: PhD student
-avatar_filename: profile.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -25,8 +25,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Arizona State University
 education:
   courses:
     - course: PhD in Artificial Intelligence
