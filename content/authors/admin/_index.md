@@ -1,7 +1,7 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
-avatar_filename: null
+title: Swanand Khanapurkar
+role: PhD student
+avatar_filename: bohm_on_dialogue.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
