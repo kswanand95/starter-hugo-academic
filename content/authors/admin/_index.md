@@ -1,7 +1,7 @@
 ---
 title: Swanand Khanapurkar
 role: PhD student
-avatar_filename: bohm_on_dialogue.jpg
+avatar_filename: profile.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
